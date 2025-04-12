@@ -31,11 +31,11 @@
             </DataGrid.Columns>
             <DataGrid.ContextMenu>
                 <ContextMenu>
-                    <MenuItem Header="Копировать FormID" Click="CopyFormID_Click"/>
-                    <MenuItem Header="Копировать FormKey" Click="CopyFormKey_Click"/>
-                    <MenuItem Header="Копировать EditorID" Click="CopyEditorID_Click"/>
-                    <MenuItem Header="Копировать Name" Click="CopyName_Click"/>
-                    <MenuItem Header="Копировать всю строку" Click="CopyRow_Click"/>
+                    <MenuItem Header="Copy FormID" Click="CopyFormID_Click"/>
+                    <MenuItem Header="Copy FormKey" Click="CopyFormKey_Click"/>
+                    <MenuItem Header="Copy EditorID" Click="CopyEditorID_Click"/>
+                    <MenuItem Header="Copy Name" Click="CopyName_Click"/>
+                    <MenuItem Header="Copy всю строку" Click="CopyRow_Click"/>
                 </ContextMenu>
             </DataGrid.ContextMenu>
         </DataGrid>
