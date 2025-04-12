@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPicker", "FormPicker\FormPicker.csproj", "{BA6866D6-8F64-4F82-AF90-CE12B018B94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6866D6-8F64-4F82-AF90-CE12B018B94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6866D6-8F64-4F82-AF90-CE12B018B94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6866D6-8F64-4F82-AF90-CE12B018B94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6866D6-8F64-4F82-AF90-CE12B018B94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F50D84F-A2CF-4F05-BEF3-E021C0E51C0D}
+	EndGlobalSection
+EndGlobal
