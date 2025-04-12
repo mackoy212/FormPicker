@@ -35,7 +35,11 @@
                     <MenuItem Header="Copy FormKey" Click="CopyFormKey_Click"/>
                     <MenuItem Header="Copy EditorID" Click="CopyEditorID_Click"/>
                     <MenuItem Header="Copy Name" Click="CopyName_Click"/>
+<<<<<<< HEAD
                     <MenuItem Header="Copy all line" Click="CopyRow_Click"/>
+=======
+                    <MenuItem Header="Copy всю строку" Click="CopyRow_Click"/>
+>>>>>>> f83e7a20c5832af616ed7b52f43dae07242fc5d1
                 </ContextMenu>
             </DataGrid.ContextMenu>
         </DataGrid>
